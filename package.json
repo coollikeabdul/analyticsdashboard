@@ -1,6 +1,7 @@
 {
   "name": "mnguni-dashboard",
   "private": true,
+  "homepage": "https://coollikeabdul.github.io/analyticsdashboard",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
